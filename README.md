@@ -1,10 +1,10 @@
 ## Vincent A Cicirello
 
 |     |     |
-| --- | ------ |
-| Web and social media | [<img alt="Personal website" src="https://www.cicirello.org/favicon.ico" height="64" width="64">](https://www.cicirello.org/) [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="64" width="64">](https://www.linkedin.com/in/vacicirello) |
-| Software development | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="64" width="64">](https://github.com/cicirello) |
-| Research profiles | [<img alt="Google Scholar" src="https://www.cicirello.org/images/gs.svg" height="64" width="64">](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [<img alt="Orcid" src="https://www.cicirello.org/images/orcid.svg" height="64" width="64">](https://orcid.org/0000-0003-1072-8559) [<img alt="ResearchGate" src="https://www.cicirello.org/images/rg.svg" height="64" width="64">](https://www.researchgate.net/profile/Vincent_Cicirello) |
+| --- | --- |
+| Web and social media | [<img alt="Personal website" src="https://www.cicirello.org/favicon.ico" height="32" width="32">](https://www.cicirello.org/) [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="32" width="32">](https://www.linkedin.com/in/vacicirello) |
+| Software development | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="32" width="32">](https://github.com/cicirello) |
+| Research profiles | [<img alt="Google Scholar" src="https://www.cicirello.org/images/gs.svg" height="32" width="32">](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [<img alt="Orcid" src="https://www.cicirello.org/images/orcid.svg" height="32" width="32">](https://orcid.org/0000-0003-1072-8559) [<img alt="ResearchGate" src="https://www.cicirello.org/images/rg.svg" height="32" width="32">](https://www.researchgate.net/profile/Vincent_Cicirello) |
 
 
 ![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
