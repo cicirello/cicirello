@@ -1,5 +1,8 @@
-### Hi there 👋
+## Vincent A Cicirello
 
+### Sites where you can find me
+
+[<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="64" width="64">](https://www.linkedin.com/in/vacicirello)
 <!--
 **cicirello/cicirello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
