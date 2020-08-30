@@ -2,7 +2,7 @@
 
 |     |     |
 | --- | ------ |
-| Web and social media | [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="64" width="64">](https://www.linkedin.com/in/vacicirello) |
+| Web and social media | [<img alt="Personal website" src="https://www.cicirello.org/favicon.ico" height="64" width="64">](https://www.cicirello.org/) [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="64" width="64">](https://www.linkedin.com/in/vacicirello) |
 | Software development | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="64" width="64">](https://github.com/cicirello) |
 | Research profiles | [<img alt="Google Scholar" src="https://www.cicirello.org/images/gs.svg" height="64" width="64">](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [<img alt="Orcid" src="https://www.cicirello.org/images/orcid.svg" height="64" width="64">](https://orcid.org/0000-0003-1072-8559) [<img alt="ResearchGate" src="https://www.cicirello.org/images/rg.svg" height="64" width="64">](https://www.researchgate.net/profile/Vincent_Cicirello) |
 
