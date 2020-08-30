@@ -7,7 +7,7 @@
 | Research profiles | [<img alt="Google Scholar" src="https://www.cicirello.org/images/gs.svg" height="64" width="64">](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [<img alt="Orcid" src="https://www.cicirello.org/images/orcid.svg" height="64" width="64">](https://orcid.org/0000-0003-1072-8559) [<img alt="ResearchGate" src="https://www.cicirello.org/images/rg.svg" height="64" width="64">](https://www.researchgate.net/profile/Vincent_Cicirello) |
 
 
-
+![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
 
 
 
