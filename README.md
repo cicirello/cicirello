@@ -9,7 +9,7 @@
 
 ![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact)
 
 
 <!--
