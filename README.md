@@ -3,7 +3,7 @@
 | | |
 | :--- | :--- |
 | __Web and social media__ | [<img alt="Personal website" src="https://www.cicirello.org/favicon.ico" height="32" width="32">](https://www.cicirello.org/) [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="32" width="32">](https://www.linkedin.com/in/vacicirello) |
-| __Software development__ | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="32" width="32">](https://github.com/cicirello) |
+| __Software development__ | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="32" width="32">](https://github.com/cicirello) [<img alt="Docker Hub" src="https://github.com/cicirello/cicirello/blob/master/images/docker.svg" height="32" width="32">](https://hub.docker.com/u/cicirello) |
 | __Research profiles__ | [<img alt="Google Scholar" src="https://www.cicirello.org/images/gs.svg" height="32" width="32">](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [<img alt="Orcid" src="https://www.cicirello.org/images/orcid.svg" height="32" width="32">](https://orcid.org/0000-0003-1072-8559) [<img alt="ACM Digital Library" src="https://www.cicirello.org/images/acm.svg" height="32" width="32">](http://dl.acm.org/author_page.cfm?id=81100638594) [<img alt="ResearchGate" src="https://www.cicirello.org/images/rg.svg" height="32" width="32">](https://www.researchgate.net/profile/Vincent_Cicirello) |
 
 
