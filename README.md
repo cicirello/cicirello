@@ -1,6 +1,6 @@
 ## Vincent A Cicirello
 
-| | |
+| | Sites where you can find me or my work |
 | :--- | :--- |
 | __Web and social media__ | [<img alt="Personal website" src="https://www.cicirello.org/images/favicon.svg" height="32" width="32">](https://www.cicirello.org/) [<img alt="LinkedIn" src="https://www.cicirello.org/images/in.svg" height="32" width="32">](https://www.linkedin.com/in/vacicirello) |
 | __Software development__ | [<img alt="Github" src="https://www.cicirello.org/images/mark-github-16.svg" height="32" width="32">](https://github.com/cicirello) [<img alt="Docker Hub" src="https://github.com/cicirello/cicirello/blob/master/images/docker.svg" height="32" width="32">](https://hub.docker.com/u/cicirello) |
