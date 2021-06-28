@@ -12,7 +12,7 @@ The following chart lists my "most used languages," as measured by code in publi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=4&theme=dark)
 
-![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&theme=dark&disable_animations=true)
 
 
 <!--
