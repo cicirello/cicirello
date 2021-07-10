@@ -8,12 +8,12 @@
 
 ### GitHub Statistics
 
+![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&theme=dark&disable_animations=true)
+
+### Language Usage
 The following chart lists my "most used languages," as measured by code in public GitHub repositories. This may or may not be representative of my language usage in general.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Cicirello's github stats](https://github-readme-stats.vercel.app/api?username=cicirello&show_icons=true&count_private=true&include_all_commits=true&theme=dark&disable_animations=true)
-
 
 <!--
 **cicirello/cicirello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
