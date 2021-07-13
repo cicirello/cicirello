@@ -21,6 +21,10 @@ The following chart lists my "most used languages," as measured by code in publi
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+If you want to generate the equivalent of this language 
+card for your own GitHub profile, check out 
+[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
 <!--
 **cicirello/cicirello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
