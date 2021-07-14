@@ -21,7 +21,7 @@ GitHub Action.
 ## Language Usage
 The following chart lists my "most used languages," as measured by code in public GitHub repositories. This may or may not be representative of my language usage in general.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=5&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=4&theme=dark)
 
 If you want to generate the equivalent of this language 
 card for your own GitHub profile, check out 
