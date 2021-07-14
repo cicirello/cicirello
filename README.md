@@ -1,5 +1,7 @@
 ## Vincent A Cicirello
 
+<img alt="Vincent A. Cicirello" src="images/cicirello.png" width="640">
+
 | | Sites where you can find me or my work |
 | :--- | :--- |
 | __Web and social media__ | [<img src="images/logo-gh-android-app-size.png" width="32" height="32" alt="Personal website">](https://www.cicirello.org/) [![LinkedIn](https://www.cicirello.org/images/in.svg)](https://www.linkedin.com/in/vacicirello) [![DEV Profile](https://github.com/cicirello/cicirello/blob/master/images/devto.svg)](https://dev.to/cicirello) |
