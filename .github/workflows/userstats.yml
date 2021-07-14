@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Generate the user stats image
-      uses: cicirello/user-statistician@v1
+      uses: cicirello/user-statistician@dev
       with:
         colors: dark
       env:
