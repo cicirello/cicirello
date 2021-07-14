@@ -1,4 +1,6 @@
-## Vincent A Cicirello
+# Vincent A Cicirello
+
+[<img alt="Vincent A. Cicirello" src="images/cicirello.png" width="640">](#vincent-a-cicirello)
 
 | | Sites where you can find me or my work |
 | :--- | :--- |
@@ -7,7 +9,7 @@
 | __Publications__ | [![Google Scholar](https://www.cicirello.org/images/gs.svg)](http://scholar.google.com/citations?user=wq4N1CoAAAAJ) [![ORCID](https://www.cicirello.org/images/orcid.svg)](https://orcid.org/0000-0003-1072-8559) [![DBLP](https://www.cicirello.org/images/dblp.svg)](http://dblp.org/pid/57/5754) [![ACM Digital Library](https://www.cicirello.org/images/acm.svg)](http://dl.acm.org/author_page.cfm?id=81100638594) [![Microsoft Academic](https://www.cicirello.org/images/microsoftacademic.svg)](https://academic.microsoft.com/profile/507gjie3-7641-40f5-e807-009gg36i8eh6/VincentA.Cicirello/) [![IEEE Xplore](https://www.cicirello.org/images/ieee.svg)](https://ieeexplore.ieee.org/author/37272496500) [![ResearchGate](https://www.cicirello.org/images/rg.svg)](https://www.researchgate.net/profile/Vincent_Cicirello) [![arXiv](https://github.com/cicirello/cicirello/blob/master/images/arxiv.svg)](https://arxiv.org/search/?searchtype=author&query=Cicirello%2C+V+A) |
 
 
-### My Activity on GitHub
+## My Activity on GitHub
 
 [![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
@@ -16,7 +18,7 @@ check out the [cicirello/user-statistician](https://github.com/cicirello/user-st
 GitHub Action.
 
 
-### Language Usage
+## Language Usage
 The following chart lists my "most used languages," as measured by code in public GitHub repositories. This may or may not be representative of my language usage in general.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicirello&layout=compact&langs_count=5&theme=dark)
