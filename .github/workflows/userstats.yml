@@ -12,9 +12,17 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Generate the user stats image
+    - name: Generate the user stats image for GitHub profile
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+    - name: Generate the user stats image for personal website
+      uses: cicirello/user-statistician@v1
+      with:
+        image-file: images/statsForWeb.svg
+        colors: '#f6f0bb #862d2d #4CAF50 #862d2d #305030'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
