@@ -16,5 +16,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
+        animated-language-chart: true
+        featured-repository: Chips-n-Salsa
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
