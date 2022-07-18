@@ -1,6 +1,6 @@
 # Vincent A Cicirello
 
-[<img alt="Vincent A. Cicirello" src="https://raw.githubusercontent.com/cicirello/cicirello/master/images/vac.png" width="640">](#vincent-a-cicirello)
+[<img alt="Vincent A. Cicirello" src="https://www.cicirello.org/images/vac.png" width="640">](#vincent-a-cicirello)
 
 | | Sites where you can find me or my work |
 | :--- | :--- |
