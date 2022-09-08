@@ -3,6 +3,9 @@ name: user-statistician
 on:
   schedule:
     - cron: '42 5 * * *'
+  push:
+    branches: [ master ]
+    paths: [ '.github/workflows/userstats.yml' ]
   workflow_dispatch:
 
 jobs:
@@ -15,7 +18,7 @@ jobs:
     - name: Generate the user stats image for GitHub profile
       uses: cicirello/user-statistician@v1
       with:
-        colors: dark
+        colors: halloween
         featured-repository: Chips-n-Salsa
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
