@@ -18,7 +18,7 @@ jobs:
     - name: Generate the user stats image for GitHub profile
       uses: cicirello/user-statistician@v1
       with:
-        colors: halloween
+        colors: dark
         featured-repository: Chips-n-Salsa
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
