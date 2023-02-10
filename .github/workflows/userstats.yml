@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
       
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Generate the user stats image for GitHub profile
-      uses: cicirello/user-statistician@v1
+      uses: cicirello/user-statistician@dependabot/docker/main/cicirello/pyaction-4.16.0
       with:
         colors: dark
         featured-repository: Chips-n-Salsa
