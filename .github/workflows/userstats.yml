@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: Generate the user stats image for GitHub profile
-      uses: cicirello/user-statistician@fix1
+      uses: cicirello/user-statistician@v1
       with:
         colors: halloween
         featured-repository: Chips-n-Salsa
