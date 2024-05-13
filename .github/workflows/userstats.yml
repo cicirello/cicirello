@@ -20,6 +20,5 @@ jobs:
       with:
         colors: dark
         featured-repository: Chips-n-Salsa
-        commit-message: Testing custom commit message Action input
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
