@@ -12,10 +12,10 @@
 
 <details>
 <summary>View My Detailed GitHub Activity</summary>
-[![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+<a href="https://github.com/cicirello/user-statistician"><img alt="My GitHub Activity" src="images/userstats.svg"/></a>
 
 If you want to generate the equivalent to the above for your own GitHub profile,
-check out the [cicirello/user-statistician](https://github.com/cicirello/user-statistician)
+check out the <a href="https://github.com/cicirello/user-statistician">cicirello/user-statistician</a>
 GitHub Action.
 </details>
 
