@@ -10,11 +10,14 @@
 
 [![My bibliometrics](https://www.cicirello.org/status/images/bibliometrics2.svg)](https://scholar.google.com/citations?user=wq4N1CoAAAAJ)
 
+<details>
+<summary>View My Detailed GitHub Activity</summary>
 [![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 If you want to generate the equivalent to the above for your own GitHub profile,
 check out the [cicirello/user-statistician](https://github.com/cicirello/user-statistician)
 GitHub Action.
+</details>
 
 <!--
 **cicirello/cicirello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
